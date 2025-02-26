@@ -1,0 +1,11 @@
+flask
+flask-cors
+requests
+beautifulsoup4
+langchain
+langchain-core
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+playwright
+asyncio
